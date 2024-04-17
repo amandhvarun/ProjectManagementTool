@@ -19,7 +19,7 @@ Check out the live demo of the Project Management Tool [here](#).
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/amandhvarun/ProjectManagementTool.git
 ```
 
 2. Open `index.html` in your web browser.
